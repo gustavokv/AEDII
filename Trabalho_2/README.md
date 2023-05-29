@@ -29,11 +29,11 @@ Implemente um programa que gerencie a alocação/desalocação de blocos de mem�
 Seu programa deverá apresentar interface com usuário para:
 
 -Definição do valor de M;<br>
--Entrada de dados para alocação e desalocação de blocos;
--Mensagens de saída/erro diversas, conforme necessidade;
--Em modo gráfico, usando a biblioteca gfx, em uma janela de tamanho 1024x768 pixels:
+-Entrada de dados para alocação e desalocação de blocos;<br>
+-Mensagens de saída/erro diversas, conforme necessidade;<br>
+-Em modo gráfico, usando a biblioteca gfx, em uma janela de tamanho 1024x768 pixels:<br>
      Visualizar mapa da memória com informações sobre os blocos disponíveis (endereço inicial e tamanho) e 
-     alocados (id, endereço inicial e endereço final);
+     alocados (id, endereço inicial e endereço final);<br>
 -Apresentar a porcentagem de memória alocada.
 
 O código deve estar devidamente organizado, identado, comentado e sem erros ou avisos usando as opções -Wall -Wextra -pedantic do gcc.
