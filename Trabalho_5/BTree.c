@@ -3,9 +3,6 @@
 //volobueffgustavo@gmail.com
 //Algoritmos e Estruturas de Dados II
 
-//ATENÇÃO: Não consegui fazer a GFX corretamente, mas acredito que com os prints que consegui fazer, irá dar para entender
-//como a árvore está, com auxílio da GFX incorreta.
-
 #include "gfx/gfx.h"
 #include <stdio.h>
 #include <unistd.h>
